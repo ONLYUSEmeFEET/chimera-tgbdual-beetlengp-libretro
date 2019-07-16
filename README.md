@@ -1,7 +1,33 @@
 # Chimera
-Chimera is a project to combine neopop's ngpc emulation with tgb-dual's multiplayer capabilities. This is a proof of concept repro.
+Chimera is a project to combine neopop's ngpc emulation with tgb-dual's multiplayer capabilities.
 
-Chimera: Combining the best of NeoPop and TGB-Dual into one beautiful creature.
+Chimera: Combining the best of NeoPop and TGB-Dual into one beautiful, linked creature.
+
+# Outline of Chimera
+
+*We first need to decide which emulator will be the basis of Chimera. The better half, if you will.
+I'll assume NeoPop will be the base.
+
+*Next, we need to SLOWLY implement parts of TGB-Dual.
+This step is going to be broken into multiple smaller parts, but our goal is to get dual screens within NeoPop.
+
+*Afterwards, we need to be able to get input from Players 1 and 2 within our new Chimera emulator.
+
+*We then must compile the core and test. Fix things as needed.
+
+*If everything else is running smooth, it's time to get link cable emulation up and running.
+Link cable emulation will need a bounty in order to be implemented.
+
+*Once link support is complete, and after extensive local multiplayer testing is complete, Chimera's initial goals are completed.
+Any relevant pieces of Chimera should be merged to beetle-neopop proper.
+
+*If possible, a stretch goal for Chimera would be to add single-screen spectator support.
+*Another stretch goal would be LAN support.
+
+# And and all ideas are welcome. AS ARE CONTRIBUTORS!
+
+
+
 
 # TGB Dual is an open source (GPLv2) GB/GBC emulator with game link cable support.
 
