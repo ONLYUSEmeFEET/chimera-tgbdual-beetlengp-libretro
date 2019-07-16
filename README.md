@@ -24,10 +24,7 @@ Any relevant pieces of Chimera should be merged to beetle-neopop proper.
 *If possible, a stretch goal for Chimera would be to add single-screen spectator support.
 *Another stretch goal would be LAN support.
 
-# And and all ideas are welcome. AS ARE CONTRIBUTORS!
-
-
-
+ANY and all ideas are welcome. AS ARE CONTRIBUTORS!
 
 # TGB Dual is an open source (GPLv2) GB/GBC emulator with game link cable support.
 
